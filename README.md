@@ -1,9 +1,9 @@
 # alumini
 
-# Install eclipse-jee-mars-2-win32-x86_64
-# Install mysql latest version
-# Import and run the database file which is in database repository
-# Download the whole project and import in eclipse
+Install eclipse-jee-mars-2-win32-x86_64
+Install mysql latest version
+Import and run the database file (alumni.sql)
+Download the whole project and import in eclipse
 
 
 # Change the the information about the college and college images.
