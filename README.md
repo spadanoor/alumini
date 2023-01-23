@@ -1,4 +1,4 @@
-# alumini
+# alumini association.
 
 # Install eclipse-jee-mars-2-win32-x86_64.
 # Install mysql latest version.
